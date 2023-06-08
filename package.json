@@ -1,0 +1,17 @@
+{
+  "name": "devicecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "device-flow.js",
+  "scripts": {
+    "start": "node device-flow.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3"
+  }
+}
